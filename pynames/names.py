@@ -7,6 +7,7 @@ from pynames import exceptions
 
 
 class Name(object):
+    '''Add docstring'''
 
     __slots__ = ('genders', 'native_language', 'translations')
 
